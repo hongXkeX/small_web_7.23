@@ -6,7 +6,7 @@
 7.14 集合实现的项目 详情请参见： http://www.jianshu.com/p/71c08f7805af
 
 7.23 版本为7.14版本 结合 MySQL、JDBC 实现登陆注册功能
-详情请参见：
+详情请参见：http://www.jianshu.com/p/c17793c55573
 
 联系邮箱：wyhongke@163.com
 
